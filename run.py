@@ -19,3 +19,4 @@ else :
     print ("niewłaściwe argumenty","podaj:OPERACJA X Y")
 
 #1234567yhbgvfhn
+#mmmmmmmmmmmxdnbdhhd
