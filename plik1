@@ -1,4 +1,4 @@
-konflikt echo "# Magdalena-Adamkiewicz" >> README.md
+tu jest rozwiazany konflikt echo "# Magdalena-Adamkiewicz" >> README.md
 git init
 git add README.md
 git commit -A "first commit"
