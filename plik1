@@ -1,6 +1,0 @@
-tu jest rozwiazany konflikt echo "# Magdalena-Adamkiewicz" >> README.md
-git init
-git add README.md
-git commit -A "first commit"
-git branch -M main
-git remote add origin https://github.com/Mania0910/Magdalena-Adamkiewicz.git
